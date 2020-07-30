@@ -1,4 +1,4 @@
-# Static site Eleve Comunicação
+# Static website Eleve Comunicação
 Static website with carousel and video player.
 
 <a> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/199d40101637051.5f2318f69257c.png" alt="GitAds"/> </a>
